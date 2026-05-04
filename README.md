@@ -1,17 +1,16 @@
-# bloc_random_riswan
+# bloc_random_riswan - Week 12 Praktikum
 
-A new Flutter project.
+Flutter app with stream-based RandomNumberBloc.
 
-## Getting Started
+## Demo GIF
+![Week 12 Demo](W12no13.gif)
 
-This project is a starting point for a Flutter application.
+## Features
+- RandomNumberBloc with StreamControllers for generateRandom and randomNumber (0-9)
+- RandomScreen with StreamBuilder UI
+- Proper dispose lifecycle
 
-A few resources to get you started if this is your first Flutter project:
+## Langkah Implemented
+3-13: Bloc class, streams, constructor, UI integration, etc.
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Repo: https://github.com/Rizeone/bloc_random_riswan
